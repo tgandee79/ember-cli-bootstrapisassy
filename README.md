@@ -1,25 +1,19 @@
 # Ember-cli-bootstrapisassy
-
-This README outlines the details of collaborating on this Ember addon.
-
-## Installation
-
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+```
+                                                                           
+                                                                           
+                ___ __  __ ___ ___ ___      ___ _    ___                   
+               | __|  \/  | _ ) __| _ \___ / __| |  |_ _|__                
+               | _|| |\/| | _ \ _||   /___| (__| |__ | |___|               
+               |___|_|  |_|___/___|_|_\    \___|____|___|                  
+                                                                           
+ ___  ___   ___ _____ ___ _____ ___    _   ___ ___ ___   _   ___ _____   __
+| _ )/ _ \ / _ \_   _/ __|_   _| _ \  /_\ | _ \_ _/ __| /_\ / __/ __\ \ / /
+| _ \ (_) | (_) || | \__ \ | | |   / / _ \|  _/| |\__ \/ _ \\__ \__ \\ V / 
+|___/\___/ \___/ |_| |___/ |_| |_|_\/_/ \_\_| |___|___/_/ \_\___/___/ |_|  
+                                                                           
+                    +-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+                    
+                    |"|s|i|m|p|l|y| |t|h|e| |b|e|s|t|"|                    
+                    +-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+                    
+                                                                           
+```
